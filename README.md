@@ -1,5 +1,5 @@
 # Bandlist
-My Python playground
+My Python playground - using Flask, sqlite, sqlalchemy 
 
 To use:
 1. clone repo
